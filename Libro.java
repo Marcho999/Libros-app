@@ -136,7 +136,7 @@ public class Libro {
                     break;
 
                 case 4:
-                    System.out.println("\n Saliendo del programa...");
+                    System.out.println("\n Cierre de la informacion");
                     break;
 
                 default:
@@ -152,3 +152,4 @@ public class Libro {
 // Respuesta 4
 //Genero - String
 // idioma - String
+
